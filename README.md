@@ -1,3 +1,3 @@
-# Gender-Classification-By-Name
+# Gender-Classification
 
 ### This project contains the gender prediction of person by their name.
